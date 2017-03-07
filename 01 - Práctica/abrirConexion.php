@@ -2,8 +2,8 @@
 <?php
 
 	$host     = "127.0.0.1";
-	$username = "edgar_m";
-	$password = "1m4N0rm4lU53r";
+	$username = "user";
+	$password = "pass";
 	$database = "_ofertaAcademica";
 
 	$tableUsers  = "usuarios";
